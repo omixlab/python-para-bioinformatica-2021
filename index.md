@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Curso "Python para Bioinformática" (edição 2020)
 
-You can use the [editor on GitHub](https://github.com/omixlab/site-curso-python-para-bioinformatica-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Sobre
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A bioinformática é uma área interdisciplinar que consiste na aplicação de métodos computacionais para o processamento, armazenamento e análise de dados dados biológicos, sobretudo aqueles derivados de técnicas modernas de bioquímica e biologia molecular, como o sequenciamento de DNA de nova geração (NGS). Neste contexto, diferentes linguagens de programação, como Python, R e Perl vem sendo empregadas para auxiliar no processamento destes dados, muitas vezes acompanhadas de bibliotecas e *frameworks* específicos para este tipo de aplicação (ex: `biopython`, `bioconductor` e `bioperl`), além de permitirem portabilidade entre diferentes plataformas. Dentre estas linguagem, o Python vem recebendo destaque por conta da sua adoção também nas áreas de aprendizagem de máquina, desenvolvimento web e administração de sistemas / devops, sendo apontada através de diferentes indicadores (ex: TIOBE, Stackoverflow Survey) como uma das 3 linguagens de programação mais populares atualmente. 
 
-### Markdown
+O presente curso visa fornecer uma introdução ao uso da linguagem Python no contexto da bioinformática, contemplando a apresentação dos principais conceitos da linguagem, como estruturas lógicas, programação orientada a objetos, biblioteca básica e boas práticas de código na linguagem, bem como as principais bibliotecas e *frameworks* para o desenvolvimento de soluções de bioinformática com a linguagem. Para isso, será utilizada a plataforma de Web conferência da Universidade Federal de Pelotas para disponibilização de vídeos de forma assíncrona sobre os conteúdos e a plataforma Google Colab para a realização de exercícios.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os alunos inscritos deverão compartilhar os *notebooks* do Google Colab, contendo os exercícios que forem passados em cada aula, com o email [pythonparabioinformatica.2020@gmail.com](pythonparabioinformatica.2020@gmail.com) seguindo as instruções que forem pelas organização do curso. Terão direito ao certificado de conclusão os inscritos que entregarem pelo menos 70% das atividades propostas.
 
-```markdown
-Syntax highlighted code block
+## Inscrições
 
-# Header 1
-## Header 2
-### Header 3
+*Em breve*
 
-- Bulleted
-- List
+## Cronograma
 
-1. Numbered
-2. List
+*Em breve*
 
-**Bold** and _Italic_ and `Code` text
+## Organização
 
-[Link](url) and ![Image](src)
-```
+O curso é organizado pelos membros do grupo de pesquisa Omixlab, coordenado pelos professores Frederico Schmitt Kremer e Luciano da Silva Pinto da Universidade Federal de Pelotas.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omixlab/site-curso-python-para-bioinformatica-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Professor Dr. Frederico Schmitt Kremer
+- Professor Dr. Luciano da Silva Pinto
+- MSc. Amanda Munari Guimarães
+- MSc. Rafael dos Santos Woloski
+- BSc. Alessandra Neis
