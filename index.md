@@ -1,4 +1,4 @@
-# Curso "Python para Bioinformática" (edição 2020)
+# Curso "Python para Bioinformática" (edição 2021)
 
 ## Sobre
 
